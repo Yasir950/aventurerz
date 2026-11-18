@@ -28,5 +28,4 @@ Hosted on Vercel. Every push to `main` deploys automatically.
 
 ## To do
 
-- Replace `[YOUR EMAIL]`, `[YOUR PHONE]`, `[YOUR OFFICE ADDRESS]` and `[YOUR CITY, COUNTRY]` placeholders.
-- Connect the contact form to a form service (e.g. Formspree) or a Vercel function — see the `TODO` in `contact.html`.
+- Contact form posts to FormSubmit (poomsonline@gmail.com). The first submission sends a one-time activation email — click the link in it to start receiving enquiries.
